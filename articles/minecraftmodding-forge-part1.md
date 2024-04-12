@@ -7,7 +7,7 @@ topics: ["Java"
   ,"IntelliJ"
   ,"初心者"
   ,"minecraftmodding"]
-published: false
+published: true
 ---
 # はじめに
 こんにちは！
