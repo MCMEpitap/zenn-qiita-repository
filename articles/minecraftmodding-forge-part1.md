@@ -432,7 +432,7 @@ description='''
 **これの変更が終了すればいよいよ、起動の時です！**
 右上のGradleタブより、Tasks > forgegradle runs > genIntellijRunsを押して起動させましょう。これは数秒で終わるでしょう。
 
-:::note info
+:::message
 Gradle > Tasks > forgegradle runs > genIntellijRuns
 は何かと更新に使いますので、覚えておいた方がいいでしょう！
 :::
@@ -452,4 +452,4 @@ Gradle > Tasks > forgegradle runs > genIntellijRuns
 
 次はアイテムをenumに似た形で登録する方法を書いていこうと思います！
 長かったと思いますが、ここまで読んでくれてありがとうございました！
-もしよければフォローやストックをよろしくお願いいたします！
+もしよければフォローやいいねをよろしくお願いいたします！
